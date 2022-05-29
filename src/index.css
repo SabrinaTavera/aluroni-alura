@@ -3,6 +3,7 @@
    License: none (public domain)
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
 html,
 body,
 div,
@@ -142,4 +143,5 @@ body {
 
 * {
     box-sizing: border-box;
+    font-family: 'Italiana', serif;
 }
